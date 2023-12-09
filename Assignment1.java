@@ -25,7 +25,7 @@ public class Assignment1{
             }
             a = b;
             b = c;
-            int c = a + b;
+            c = a + b;
             
        }
     }
